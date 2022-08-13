@@ -17,7 +17,7 @@ main{
 }
 
 #logo .profile{
-    border-radius: 50%;
+    border-radius: 3%;
 }
 #logo{
     padding: 2rem;
@@ -64,4 +64,13 @@ div li{
 }
 .git{
     display: block;
+}
+#skills div{
+    box-sizing: border-box;
+    justify-content: center;
+  /*  width: 19vh;
+    text-align: center;*/
+}
+#skills img{
+    width: 75%;
 }
